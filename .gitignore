@@ -1,0 +1,13 @@
+*.tif
+*.tiff
+*.npy
+*.numpy
+*.np
+*.csv
+output/
+logs/
+data/
+__pycache__
+nohup.out
+completed-ids
+.ipynb_checkpoints

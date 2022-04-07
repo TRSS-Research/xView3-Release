@@ -1,0 +1,12 @@
+numpy==1.21.2
+fire
+pandas
+tensorflow
+matplotlib
+pyyaml
+opencv-python
+boto3
+tensorflow>2
+# Conda
+# numba
+# rasterio
