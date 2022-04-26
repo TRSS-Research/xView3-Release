@@ -12,6 +12,10 @@ Score | 0.42108 |	0.61164	|0.15181	|0.91565|	0.75209|	0.62265
 
 Model prediction was relatively quick, around 10 minutes per prediction on the commodity hardware equivalent employed by the xView team.   
 
+Please see a detailed write up here:
+
+https://github.com/TRSS-Research/xView3-Release/blob/master/Xview3_Release.pdf
+
 ## Task
 
 The third installment of the xView series focused on IUU fishing. The project organizers collected, 
